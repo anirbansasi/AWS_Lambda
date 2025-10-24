@@ -1,0 +1,5 @@
+An AWS Lambda function is a small piece of code that runs only when triggered — like when someone visits a web link or uploads a file. You don’t need to manage servers or worry about scaling.
+- When triggered (e.g., via an HTTP request), AWS automatically runs your function.
+- The function receives event data (like request details) and a context object (info about the execution).
+- It processes the input and returns a response — such as a message, data, or action.
+- You only pay for the time it runs, making it cost-efficient and scalable.
